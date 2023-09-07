@@ -1,5 +1,5 @@
 $(document).ready(function () {
-    const apiUrl = '';
+    const apiUrl = 'http://localhost:3000/items';
   
     // Load items on page load
     function loadItems() {
